@@ -114,7 +114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ftasteel-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -136,6 +136,24 @@
             "Extension"
           ],
           "_name": "extHeader1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "23px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "H3": {
+              "text-align": "center",
+              "font-size": "84px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
           "_anchor": "extHeader1-2",
           "_params": {
             "formBorder": true,
@@ -190,25 +208,7 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LOGIN</a>",
           "title": "INDIGO",
           "text": "<span style=\"font-style: normal;\"><b>Next Generation Utility Operations Management</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "23px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            "H3": {
-              "text-align": "center",
-              "font-size": "84px",
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
