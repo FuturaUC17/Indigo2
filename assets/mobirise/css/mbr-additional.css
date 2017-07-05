@@ -7,6 +7,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -677,6 +680,7 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #menu-3 .navbar-toggler {
   color: #ffffff;
@@ -744,4 +748,8 @@ h6,
 #extHeader1-2 H3 {
   text-align: center;
   font-size: 84px;
+  font-family: 'Merriweather', serif;
+}
+#extHeader1-2 .btn {
+  font-family: 'Merriweather', serif;
 }
