@@ -1,7 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -680,7 +683,7 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-3 .navbar-toggler {
   color: #ffffff;
@@ -692,6 +695,7 @@ h6,
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-3 .link {
   font-size: 0.75rem;
@@ -738,7 +742,7 @@ h6,
   color: #c0a375!important;
 }
 #menu-3 .btn {
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
 }
 #extHeader1-2 P {
   text-align: center;
@@ -748,8 +752,11 @@ h6,
 #extHeader1-2 H3 {
   text-align: center;
   font-size: 84px;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
 }
 #extHeader1-2 .btn {
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
+}
+#extHeader1-2 SPAN {
+  font-family: 'Roboto', sans-serif;
 }
