@@ -188,7 +188,7 @@
             "showArrow": false
           },
           "form": {
-            "action": "jpicou561@gmail.com",
+            "action": "http://offsiteqc/AssetsApp/login",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
