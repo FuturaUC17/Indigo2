@@ -161,7 +161,8 @@
             },
             "SPAN": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "25px"
             }
           },
           "_anchor": "extHeader1-2",
